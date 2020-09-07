@@ -1,4 +1,3 @@
-# udacity-cloud-devops
-project work for the udacity cloud devops nanodegree
-
-The ProjectOne folder has all of the work for the first project
+# Udacity Cloud Devops Nanodegree
+This repository contains course work as a part of the udacity cloud devops nanodegree
+ - Projects are arranged in folders that correspond to the names of the assignments that have been complete
